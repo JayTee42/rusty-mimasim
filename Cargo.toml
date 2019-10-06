@@ -1,0 +1,10 @@
+[package]
+name = "mimasim"
+version = "0.1.0"
+authors = ["Jonas Treumer <treumer@tu-freiberg.de>"]
+edition = "2018"
+
+[dependencies]
+bitflags = "1.0"
+nom = "5.0.1"
+termion = "1.5.3"
